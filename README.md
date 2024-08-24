@@ -9,6 +9,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table <br
  - `README.md` Provides an overview of the project structure and its contents.
 
  - `part_1_mars_news.ipynb` jupyter notebook for Deliverable 1
+ - `mars_data.json` exported text elements from Deliverable 1
  - `part_2_mars_weather.ipynb` jupyter notebook for Deliverable 2
 
 
