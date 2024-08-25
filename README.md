@@ -11,6 +11,7 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table <br
  - `part_1_mars_news.ipynb` jupyter notebook for Deliverable 1
  - `mars_data.json` exported text elements from Deliverable 1
  - `part_2_mars_weather.ipynb` jupyter notebook for Deliverable 2
+ - `mars_weather_data.csv` exported text elements from Deliverable 2
 
 
  <br> 
